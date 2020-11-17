@@ -1,0 +1,32 @@
+h1{
+	text-align: center;
+	color:darkorange;
+	margin: 25px 50px 75px;
+	font-family: courier;
+}
+div{
+	text-align: center;
+
+}
+.w1{
+	height: 120px;
+	right: 120px;
+	margin: 25px 50px 75px;
+
+}
+.w2{
+	background-color:#FFBA48 ;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+.imag{
+	text-align:center;
+	height: 250px;
+	right: 250px;
+}
+.atr{
+	text-align: center;
+	color: #FFBA48;
+}
